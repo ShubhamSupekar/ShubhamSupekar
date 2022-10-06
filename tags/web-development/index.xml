@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Development on Home</title>
+    <link>https://ShubhamSupekar.github.io/tags/web-development/</link>
+    <description>Recent content in Web Development on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 17:22:24 +0530</lastBuildDate><atom:link href="https://ShubhamSupekar.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a User Interface in Webapp</title>
+      <link>https://ShubhamSupekar.github.io/posts/first/</link>
+      <pubDate>Fri, 30 Sep 2022 17:22:24 +0530</pubDate>
+      
+      <guid>https://ShubhamSupekar.github.io/posts/first/</guid>
+      <description>Click here for Full Code
+ In this Blog, We are creating a simple Web application which can do login, logout, signup like basic operations. So let&amp;rsquo;s get started.
+ Creating Database: First start the PostgreSQL. I&amp;rsquo;m using fedora so if you are using different linux then some command might be different.
+To start psql run the command
+sudo -i -u postgres Then connect to the database or create a new one.</description>
+    </item>
+    
+  </channel>
+</rss>
